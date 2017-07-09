@@ -6,14 +6,7 @@
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
 [![npm version](https://badge.fury.io/js/wxapp-socket.io.svg)](https://badge.fury.io/js/wxapp-socket.io)
 
-wxapp lib boilerplate for building a wxapp lib
-
-## Features
-
-- [x] xxxxxxxxxx
-- [x] xxxxxxxxxx
-- [x] xxxxxxxxxx
-- [x] xxxxxxxxxx
+socket.io client-side implement in Wechat app
 
 ## Installation
 ```bash
@@ -25,7 +18,7 @@ npm install wxapp-socket.io --save
 ## Usage
 
 ```javascript
-
+import io from 'wxapp-socket.io'
 ```
 
 ## Contributing

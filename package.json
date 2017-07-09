@@ -1,7 +1,7 @@
 {
   "name": "wxapp-socket.io",
   "version": "0.1.0",
-  "description": "wxapp lib boilerplate for building a wxapp lib",
+  "description": "socket.io client-side implement in Wechat app",
   "main": "./dist/index.js",
   "keywords": [
     "wx",
