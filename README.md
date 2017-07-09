@@ -1,4 +1,6 @@
 # wxapp-socket.io
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/wxapp-socket.io.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/wxapp-socket.io.svg?branch=master)](https://travis-ci.org/axetroy/wxapp-socket.io)
 [![Dependency](https://david-dm.org/axetroy/wxapp-socket.io.svg)](https://david-dm.org/axetroy/wxapp-socket.io)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
