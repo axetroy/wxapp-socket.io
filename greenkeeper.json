@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "lib/engie.io/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
